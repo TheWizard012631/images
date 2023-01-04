@@ -1,0 +1,14 @@
+waiter-failling.png
+<a href="https://www.freepik.com" title="Freepik">Lost icon created by Freepik - Flaticon</a>
+
+waiter-lost.png
+<a href="https://www.freepik.com" title="Freepik">Lost icon created by Freepik - Flaticon</a>
+
+edit.png
+<a href="https://www.flaticon.com/authors/kiranshastry" title="Kiranshastry">Edit icon created by Kiranshastry - Flaticon</a>
+
+minimize.png
+<a href="https://www.flaticon.com/authors/arkinasi" title="Arkinasi">Minimize icon created by Arkinasi - Flaticon</a>
+
+gear.png
+<a href="https://www.flaticon.com/fr/auteurs/kumakamu" title="kumakamu">Setting icon created by kumakamu - Flaticon</a>
