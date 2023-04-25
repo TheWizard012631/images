@@ -8,7 +8,12 @@ edit.png
 <a href="https://www.flaticon.com/authors/kiranshastry" title="Kiranshastry">Edit icon created by Kiranshastry - Flaticon</a>
 
 minimize.png
-<a href="https://www.flaticon.com/authors/arkinasi" title="Arkinasi">Minimize icon created by Arkinasi - Flaticon</a>
+<a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Minimize icons created by Pixel perfect - Flaticon</a>
 
 gear.png
-<a href="https://www.flaticon.com/fr/auteurs/kumakamu" title="kumakamu">Setting icon created by kumakamu - Flaticon</a>
+<a href="https://www.flaticon.com/authors/kumakamu" title="kumakamu">Setting icon created by kumakamu - Flaticon</a>
+
+<a href="https://www.flaticon.com/authors/sonnycandra" title="Scalable icon">Scalable icon created by sonnycandra - Flaticon</a>
+
+90arrow.png
+<a href="https://www.flaticon.com/free-icons/arrow" title="arrow icons">Arrow icons created by iconixar - Flaticon</a>
