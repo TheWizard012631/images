@@ -17,3 +17,6 @@ gear.png
 
 90arrow.png
 <a href="https://www.flaticon.com/free-icons/arrow" title="arrow icons">Arrow icons created by iconixar - Flaticon</a>
+
+superhero.png
+<a href="https://www.flaticon.com/free-icons/superhero" title="superhero icons">Superhero icons created by Freepik - Flaticon</a>
